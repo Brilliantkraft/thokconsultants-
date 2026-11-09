@@ -11,7 +11,7 @@ import { defineConfig } from "@lovable.dev/vite-tanstack-config";
 
 export default defineConfig({
   vite: {
-    base: process.env.BASE_URL || (process.env.GITHUB_ACTIONS ? "/thokconsultancy/" : "/"),
+    base: process.env.BASE_URL || (process.env.GITHUB_ACTIONS ? "/thokconsultants-/" : "/"),
   },
   tanstackStart: {
     // Redirect TanStack Start's bundled server entry to src/server.ts (our SSR error wrapper).

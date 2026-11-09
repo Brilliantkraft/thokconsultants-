@@ -1,0 +1,1 @@
+import{a as e,r as t}from"./ui-CcvNhg_x.js";import{f as n}from"./index-DqhC6YBM.js";var r=e(),i=()=>(0,r.jsxs)(`div`,{className:`container-x py-32 text-center`,children:[(0,r.jsx)(`h1`,{className:`text-4xl text-primary`,children:`Service not found`}),(0,r.jsx)(n,{to:`/services`,className:`${t(`primary`)} mt-8`,children:`View Our Services`})]});export{i as notFoundComponent};

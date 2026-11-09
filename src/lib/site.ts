@@ -1,20 +1,20 @@
-import heroImg from "@/assets/hero.jpg.asset.json";
-import aboutImg from "@/assets/about.jpg.asset.json";
-import whyImg from "@/assets/why.jpg.asset.json";
-import hiringImg from "@/assets/hiring.png.asset.json";
+import heroImg from "@/assets/hero.jpg";
+import aboutImg from "@/assets/about.jpg";
+import whyImg from "@/assets/why.jpg";
+import hiringImg from "@/assets/hiring.png";
 import logoImg from "@/assets/logo-transparent.png";
-import scalabuImg from "@/assets/scalabu.jpg.asset.json";
-import brandsImg from "@/assets/brands.png.asset.json";
+import scalabuImg from "@/assets/scalabu.jpg";
+import brandsImg from "@/assets/brands.png";
 
 // All copy below is taken verbatim from theokconsulting.com (verified pages only).
 export const images = {
-  hero: heroImg.url,
-  about: aboutImg.url,
-  why: whyImg.url,
-  hiring: hiringImg.url,
+  hero: heroImg,
+  about: aboutImg,
+  why: whyImg,
+  hiring: hiringImg,
   logo: logoImg,
-  scalabu: scalabuImg.url,
-  brands: brandsImg.url,
+  scalabu: scalabuImg,
+  brands: brandsImg,
 };
 
 export const contact = {

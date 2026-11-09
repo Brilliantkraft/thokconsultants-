@@ -4,7 +4,8 @@ Implement exactly the screenshot and nothing else
 
 This project was built with [Lovable](https://lovable.dev).
 
-**Live app**: https://thokconsultancy.lovable.app
+**Live app**: https://thokconsultancy.lovable.app  
+**GitHub Pages**: https://udoezekiel2028.github.io/thokconsultancy/
 
 ## Build with Lovable
 
